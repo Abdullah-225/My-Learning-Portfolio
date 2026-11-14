@@ -7,3 +7,4 @@ Learning Goals:
 1. Master C++ programming fundamentals and problem-solving.
 2. Build responsive websites using HTML, CSS, and JavaScript.
 3. Learn version control workflows using Git and GitHub.
+4. Develop clean coding habits and collaborate on open-source projects.
