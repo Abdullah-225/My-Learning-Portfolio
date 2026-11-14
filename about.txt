@@ -1,0 +1,9 @@
+Name: Abdullah Munawar
+Program: BS Information Technology (BSIT)
+Semester: 1st Semester
+University: Air University, Islamabad
+
+Learning Goals:
+1. Master C++ programming fundamentals and problem-solving.
+2. Build responsive websites using HTML, CSS, and JavaScript.
+3. Learn version control workflows using Git and GitHub.
